@@ -9,7 +9,7 @@ import { auth, googleProvider } from "../firebase";
 function Login() {
   // states for inputs
   const [username, setUsername] = useState("");
-  const [password, setPassword] = useState<string>("");
+  const [password, setPassword] = useState("");
   const [usernameError, setUsernameError] = useState("");
   const [passwordError, setPasswordError] = useState("");
 
