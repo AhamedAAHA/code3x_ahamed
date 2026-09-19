@@ -4,12 +4,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // my web app config from firebase
 const firebaseConfig = {
-  apiKey: "PASTE_YOUR_API_KEY_HERE",
-  authDomain: "PASTE_YOUR_PROJECT.firebaseapp.com",
-  projectId: "PASTE_YOUR_PROJECT_ID",
-  storageBucket: "PASTE_YOUR_PROJECT.appspot.com",
-  messagingSenderId: "PASTE_SENDER_ID",
-  appId: "PASTE_APP_ID",
+  apiKey: "AIzaSyDWSxPDx7KZt6cp_UkSUVPrxzjlNqHBWuk",
+  authDomain: "codex-ahamed.firebaseapp.com",
+  projectId: "codex-ahamed",
+  storageBucket: "codex-ahamed.firebasestorage.app",
+  messagingSenderId: "144478254835",
+  appId: "1:144478254835:web:7c070905a47a5de8d6a986",
 };
 
 const app = initializeApp(firebaseConfig);
