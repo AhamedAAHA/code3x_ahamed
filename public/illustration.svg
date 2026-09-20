@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 420">
+  <!-- soft cloud -->
+  <path d="M140 130 C120 90 170 60 200 80 C210 50 260 45 275 75 C310 60 350 90 335 120 C365 130 360 170 335 180" fill="none" stroke="#a8d5a2" stroke-width="4" stroke-linecap="round"/>
+  <!-- person -->
+  <ellipse cx="250" cy="320" rx="110" ry="45" fill="white" stroke="black" stroke-width="4"/>
+  <ellipse cx="250" cy="310" rx="85" ry="32" fill="white" stroke="black" stroke-width="3"/>
+  <!-- body green sweater -->
+  <path d="M170 230 Q250 200 330 230 L310 300 Q250 315 190 300 Z" fill="#8fce8f" stroke="black" stroke-width="4"/>
+  <!-- head -->
+  <ellipse cx="250" cy="175" rx="38" ry="42" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M218 155 Q225 125 250 125 Q275 125 282 155 Q265 140 250 140 Q235 140 218 155" fill="black"/>
+  <!-- closed eyes -->
+  <path d="M232 175 Q237 178 242 175" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M258 175 Q263 178 268 175" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- arms up -->
+  <ellipse cx="155" cy="220" rx="14" ry="18" fill="white" stroke="black" stroke-width="4"/>
+  <ellipse cx="345" cy="220" rx="14" ry="18" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M170 240 L155 225" stroke="black" stroke-width="4" stroke-linecap="round"/>
+  <path d="M330 240 L345 225" stroke="black" stroke-width="4" stroke-linecap="round"/>
+  <!-- heart -->
+  <path d="M235 245 C235 235 250 235 250 245 C250 235 265 235 265 245 C265 255 250 265 250 265 C250 265 235 255 235 245" fill="none" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+  <!-- left avatar -->
+  <circle cx="95" cy="120" r="28" fill="#cfe6cc" stroke="black" stroke-width="2"/>
+  <circle cx="95" cy="115" r="10" fill="white" stroke="black" stroke-width="2"/>
+  <path d="M85 132 Q95 125 105 132" fill="white" stroke="black" stroke-width="2"/>
+  <!-- right avatar -->
+  <circle cx="425" cy="250" r="28" fill="white" stroke="black" stroke-width="2"/>
+  <circle cx="425" cy="245" r="12" fill="#ddd" stroke="black" stroke-width="2"/>
+  <path d="M415 262 Q425 256 435 262" fill="white" stroke="black" stroke-width="2"/>
+  <!-- card -->
+  <rect x="40" y="260" width="150" height="110" rx="28" fill="white" stroke="black" stroke-width="2"/>
+  <text x="60" y="290" font-family="Arial" font-size="16" font-weight="bold">Canva Design</text>
+  <text x="60" y="308" font-family="Arial" font-size="13" fill="gray">10 Task</text>
+  <rect x="60" y="322" width="60" height="24" rx="12" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="70" y="338" font-family="Arial" font-size="12">Design</text>
+  <circle cx="160" cy="330" r="16" fill="none" stroke="#8fce8f" stroke-width="5"/>
+  <text x="151" y="334" font-family="Arial" font-size="10">84%</text>
+</svg>
